@@ -2,7 +2,7 @@ Hey You GAY  NIKHIL. Here are your Slip codes:
 Only Q1 are solved below!!
 
 ---
-QUESTIONS WHICH ARE SOLVED IN ORDER: 
+QUESTIONS ARE SOLVED IN ORDER: 
 Write a program to accept a number from user and generate multiplication table of a 
 number. Accept the number using command line argument. 
 
