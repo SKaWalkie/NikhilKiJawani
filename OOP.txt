@@ -2,7 +2,84 @@ Hey You GAY  NIKHIL. Here are your Slip codes:
 Only Q1 are solved below!!
 
 ---
+QUESTIONS WHICH ARE SOLVED IN ORDER: 
+Write a program to accept a number from user and generate multiplication table of a 
+number. Accept the number using command line argument. 
 
+Write a program to read the First Name and Last Name of a person, his weight and height 
+using Scanner class. Calculate the BMI Index which is defined as the individual's body mass 
+divided by the square of their height.  
+(Hint : BMI = Wts. In kgs / (ht)2 ) 
+
+Write a program to accept the 'n' different numbers from user and store it in array. Print the 
+sum of elements of the array
+
+Write a program to accept the user name and greets the user by name. Before displaying 
+the user's name, convert it to upper case letters. For example, if the user's name is Raj, then 
+display greet message as "Hello, RAJ, nice to meet you!".  
+
+ Write a program to accept a number from the user using BufferedReader class. Display 
+factorial of a number.  
+
+Write a program to display the Employee (Empid, Empname, Empdesignation, Empsal) 
+information using toString(). 
+
+Create a class Sphere, to calculate the volume and surface area of sphere. Accept the input 
+using command line argument. 
+(Hint : Surface area=4*3.14(r*r), Volume=(4/3)3.14(r*r*r))  
+
+Write a program to reverse a number. Accept number using BufferedReader class. 
+
+ Write a program to accept a number from user. Check whether number is perfect or not. 
+Use Scanner class for accepting input from user. 
+
+ Write a program to accept a number from user. Check whether number is prime or not. 
+Accept the number using command line argument.   
+
+Write a program create class as MyDate with dd,mm,yy as data members. Write 
+parameterized constructor. Display the date in dd-mm-yy format. (Use this keyword)
+
+Write a program to accept ‘n’ names of countries and display country names in capital 
+letters.
+
+Write a Java program to display prime numbers in the range from 1 to 100.
+
+Write a program to accept a number from user. Check whether number is armstromg or not. 
+
+Write a program to print the factors of a number. Accept a number using BufferedReader 
+class.  
+
+Create a class Student (rollno, name ,class, per) to read student information using 
+BufferedReader class  and display details. 
+
+Write a program to Calculate the volume of the cylinder. (Hint : Volume: π × r2 × h) 
+Accept the input using Command line argument. 
+
+ Write a program to accept the 'n' different numbers from user and store it in array. Display 
+minimum number from an array.
+
+Write a program to accept the 'n' different numbers from user and store it in array. Display 
+maximum number from an array. 
+
+Write a program to accept 3 numbers using command line argument. Sort and display the 
+numbers.  
+
+Write a program to accept a filename from user. Check whether file exist or not. If it exist 
+then its size and last modified time.  
+
+Write a proram to accept two string using Scanner class. Check whether two strings are 
+equal or not. 
+
+Write a program to create class Person (pname, pmobno). Create two objects of Person class. 
+Display hashcode of these two objects and check whether hashcode are equal or not. 
+
+Write a program to display sum of digits of a number. Accept number using command line 
+argument. 
+
+ Write a program to display count the number of digits of a number. Accept number using 
+BufferedReader class.  
+
+Solutions:
 ### **1. Multiplication Table (Command Line Argument)**
 
 ```java
